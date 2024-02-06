@@ -22,4 +22,3 @@
   
 </div>
 
-![Snake animation](https://github.com/rafaballerini2/marcospfm/blob/output/github-contribution-grid-snake.svg)
